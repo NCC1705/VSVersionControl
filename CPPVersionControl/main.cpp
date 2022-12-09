@@ -4,5 +4,7 @@
 
 int main()
 {
-	std::cout << "Main Function\n\n";
+	//print some text
+	std::cout << "Main Function Welcome\n\n";
+
 }
