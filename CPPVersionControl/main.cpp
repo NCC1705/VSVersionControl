@@ -10,6 +10,6 @@ void greet()
 }
 int main()
 {
-	//main comment
+	//Main comment
 	greet();
 }
